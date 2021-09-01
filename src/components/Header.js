@@ -79,7 +79,7 @@ const NavMenu = styled.div`
         bottom: -6px;
         opacity: 0;
         transform-origin: left center;
-        transition: all 250ms cubic-bezier(0.05, 1, 0.22, 1) 0s;
+        transition: all 250ms cubic-bezier(0, 1, 0.22, 1) 0s;
         transform: scaleX(0);
       }
     }
